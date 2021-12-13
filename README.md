@@ -1,11 +1,13 @@
 
 
-<h1 align="center">Hi 👋, I'm Layla Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Layla </h1>
 <h3 align="center">A passionate neuroscience graduate</h3>
 
-- 🔭 I’m currently working on **a deep-learning model to interpret sign Language images**
+- 👨‍🎓 I hold a BSc in Natural Sciences (Major: Neuroscience and Psychology) and an MSc in Brain and Mind Sciences from UCL. 
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m actively looking for opportunities in neuroscience, mental health, and data science.  
+
+- 🔭 I’m currently working on **a deep-learning model to interpret sign language images**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
