@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Layla </h1>
+<h1 align="center">Hi 👋 I'm Layla </h1>
 <h3 align="center">A passionate neuroscience graduate</h3>
 
 - 👨‍🎓 I hold a BSc in Natural Sciences (Major: Neuroscience and Psychology) and an MSc in Brain and Mind Sciences from UCL. 
